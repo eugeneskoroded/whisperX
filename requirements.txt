@@ -1,7 +1,9 @@
-torch>=2
-torchaudio>=2
+torch==2.1.2
+torchaudio==2.1.2
 faster-whisper==1.0.0
-transformers
-pandas
-setuptools>=65
-nltk
+transformers==4.37.2
+pandas==2.2.0
+setuptools==68.2.2
+nltk==3.8.1
+ctranslate2==3.24.0
+speechbrain==0.5.16
